@@ -1,0 +1,35 @@
+<robots>
+	<robot>
+		<name>Raptor</name>
+		<class>Raptor</class>
+
+		<image-north>images/robo_blue7.gif</image-north>
+		<image-north-east1>images/robo_blue8.gif</image-north-east1>			
+		<image-north-east2>images/robo_blue9.gif</image-north-east2>
+
+		<image-east>images/robo_blue10.gif</image-east>
+		<image-south-east1>images/robo_blue11.gif</image-south-east1>
+		<image-south-east2>images/robo_blue12.gif</image-south-east2>			
+
+		<image-south>images/robo_blue1.gif</image-south>
+		<image-south-west2>images/robo_blue2.gif</image-south-west2>
+		<image-south-west1>images/robo_blue3.gif</image-south-west1>
+
+		<image-west>images/robo_blue4.gif</image-west>
+		<image-north-west2>images/robo_blue5.gif</image-north-west2>			
+		<image-north-west1>images/robo_blue6.gif</image-north-west1>
+		
+		<image-fire>images/tiro_blue.gif</image-fire>
+
+		<image-explosion0>images/fogo0000.gif</image-explosion0>
+		<image-explosion1>images/fogo0001.gif</image-explosion1>
+		<image-explosion2>images/fogo0002.gif</image-explosion2>
+		<image-explosion3>images/fogo0003.gif</image-explosion3>
+		<image-explosion4>images/fogo0004.gif</image-explosion4>
+		<image-explosion5>images/fogo0005.gif</image-explosion5>
+		<image-explosion6>images/fogo0006.gif</image-explosion6>
+		<image-explosion7>images/fogo0007.gif</image-explosion7>
+		<image-explosion8>images/fogo0008.gif</image-explosion8>
+		<image-explosion9>images/fogo0009.gif</image-explosion9>
+	</robot>
+</robots>
